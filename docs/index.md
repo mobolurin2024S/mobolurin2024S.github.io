@@ -91,7 +91,7 @@ One might say this is *the* hardest aspect of living off campus and trust us, we
 
 Here is an [Off-Campus Housing Guide](https://www.globaleducation.vt.edu/content/dam/globaleducation_vt_edu/documents/Off-Campus%20Housing%20Guide.pdf) created by Virginia Tech.
 
-### When to Tour? Do I Tour? - brooke
+### When to Tour? Do I Tour? 
 
 We recommend that you begin touring different apartment complexes towards the end of fall semester, before Winter Break. Now you've given yourself ample amount of time to consider multiple locations and discuss with your roommates to find the best fit for everyone.
 
