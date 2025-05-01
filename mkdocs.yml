@@ -5,3 +5,9 @@ theme:
 markdown_extensions:
  - admonition
  - tables
+nav:
+  - index.md
+  - Blacksburg-Transit-App-&-The-Bus-System.md
+  - Apartment-Hunting.md
+  - The-Food-Situation.md
+  - Conclusion.md
