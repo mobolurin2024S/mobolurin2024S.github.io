@@ -8,6 +8,6 @@ This guide will help you navigate the Blacksburg bus system, apartment hunting, 
 
 ## Table of Contents
 - [Blacksburg Transit App & The Bus System](Blacksburg-Transit-App-&-The-Bus-System)
-- [Apartment Hunting](../Apartment-Hunting)
+- [Apartment Hunting](Apartment-Hunting)
 - [The Food Situation](The-Food-Situation)
 - [Conclusion](Conclusion)
