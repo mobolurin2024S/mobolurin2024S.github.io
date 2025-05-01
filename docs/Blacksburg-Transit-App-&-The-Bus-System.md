@@ -1,31 +1,33 @@
 ## Blacksburg Transit App & The Bus System
 
 ### What is Blacksburg Transit?
-Blacksburg Transit is the public bus system that goes around the town, parts of Christiansburg, and Roanoke. It is free to all Virginia Tech Students and Blacksburg residents. 
+Blacksburg Transit is the public bus system that goes around the town, parts of Christiansburg, and Roanoke. Blacksburg Transit is free to all Virginia Tech Students and Blacksburg residents. 
 
 Each bus displays its route (in shorthand) at the front and back of the bus.
 
-
 ### Blacksburg Transit App
 This is the official app for Blacksburg Transit. It includes all of the routes in Blacksburg and one route in Christiansburg.
-- [Blacksburg Transit App](https://www.ridebt.org/bt-app)
-    - PROS: live bus tracking, shows adjusted routes
-    - CONS: app frequently breaks down, unintuitive trip planning function
-- [Blacksburg Transit Website](https://ridebt.org/)
-    - PROS: live bus tracking, updates bus capacity,   mentions detours/changes in routes, all transit information, can file a lost and found claim
-    - CONS: harder to navigate on phones, the live bus map breaks the same as the app
+
+[Blacksburg Transit App](https://www.ridebt.org/bt-app)
+- PROS: live bus tracking, shows adjusted routes
+- CONS: app frequently breaks down, unintuitive trip planning function
+
+[Blacksburg Transit Website](https://ridebt.org/)
+- PROS: live bus tracking, updates bus capacity,   mentions detours/changes in routes, all transit information, can file a lost and found claim
+- CONS: harder to navigate on phones, the live bus map breaks the same as the app
 
 ### Alternatives to Blacksburg Transit
--  [Google Maps](https://www.google.com/maps)
-    -  PROS: better user interface, flexible trip planning
-    -  CONS: lacks live bus tracking, less accurate bus times, ignores break schedules
--  [Transit](https://transitapp.com/)
-    -  PROS: Better user interface, flexible trip planning, live bus tracking
-    -  CONS: Only finds nearby buses, less accurate for buses out of  without subscription
+ [Google Maps](https://www.google.com/maps)
+-  PROS: better user interface, flexible trip planning
+-  CONS: lacks live bus tracking, less accurate bus times, ignores break schedules
+
+[Transit](https://transitapp.com/)
+-  PROS: Better user interface, flexible trip planning, live bus tracking
+-  CONS: Only finds nearby buses, less accurate for buses out of  without subscription
 
 ### Blacksburg Bus Routes
 
-- [ALL 22 Routes & Schedules](https://ridebt.org/routes-schedules)
+[ALL 22 Routes & Schedules](https://ridebt.org/routes-schedules)
    - "Regional Services" includes: Smart Way Buses, [Virginia Breeze](https://us.megabus.com/virginia-breeze), [OurBus](https://www.ourbus.com/), and [others](https://news.vt.edu/notices/adm-evergreens/ops-gettinghomebreak.html).
 
 
