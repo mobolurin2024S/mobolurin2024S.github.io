@@ -53,7 +53,8 @@ Sources: [Smart Way Bus Schedule](https://smartwaybus.com/3rd_Street_Rev/SmartWa
 ### Tips for Using the Bus System
 Riding the bus for the first time may be confusing, especially if you have minimal experience with public transit. A yellow cord runs along the sides of the bus. When you ride, pull down on the yellow cord before your stop to indicate to the bus driver that you want to get off. Even if the bus stops to pick up people at your desired stop, if no one pulled the yellow cord, the exit doors may not open. 
 
-If you ride a bicycle and need to take the bus, don't worry! Each bus has a bicycle rack out on the front of the bus. The bus driver can help you lower the rack to secure your bike. You may need to let the bus driver know as you exit that you have a bike to dismount. In this case, exit through the front of the bus instead of the side exit doors.
+!!! Note
+    If you ride a bicycle and need to take the bus, don't worry! Each bus has a bicycle rack out on the front of the bus. The bus driver can help you lower the rack to secure your bike. You may need to let the bus driver know as you exit that you have a bike to dismount. In this case, exit through the front of the bus instead of the side exit doors.
 
 All buses (excluding the Explorer buses in Christiansburg) stop at Virginia Tech at some point. Most buses dock at the Maroon and Orange loops, which you can view on the app. When the buses stop here, they "time check" which means they will stay at the bus loop until their exact departure time. With all other stops, the bus may be arrive early or late and pass by stops if no one is getting off and no one is standing nearby to get on. Arriving on time avoids the frustration of missing your ride.
 
