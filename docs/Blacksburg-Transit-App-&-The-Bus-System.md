@@ -9,19 +9,23 @@ Each bus displays its route (in shorthand) at the front and back of the bus.
 This is the official app for Blacksburg Transit. It includes all of the routes in Blacksburg and one route in Christiansburg.
 
 [Blacksburg Transit App](https://www.ridebt.org/bt-app)
+
 - PROS: live bus tracking, shows adjusted routes
 - CONS: app frequently breaks down, unintuitive trip planning function
 
 [Blacksburg Transit Website](https://ridebt.org/)
+
 - PROS: live bus tracking, updates bus capacity,   mentions detours/changes in routes, all transit information, can file a lost and found claim
 - CONS: harder to navigate on phones, the live bus map breaks the same as the app
 
 ### Alternatives to Blacksburg Transit
  [Google Maps](https://www.google.com/maps)
+
 -  PROS: better user interface, flexible trip planning
 -  CONS: lacks live bus tracking, less accurate bus times, ignores break schedules
 
 [Transit](https://transitapp.com/)
+
 -  PROS: Better user interface, flexible trip planning, live bus tracking
 -  CONS: Only finds nearby buses, less accurate for buses out of  without subscription
 
@@ -61,9 +65,13 @@ Sources: [Smart Way Bus Schedule](https://smartwaybus.com/3rd_Street_Rev/SmartWa
 | Sunday     | 9:30am - 10:45pm     | 9:30am - 9:45pm     |
 
 ### What To Do When The BT App Breaks
-As stated earlier, the BT app frequently breaks down. When the app inevitably breaks you want do the following:
+As stated earlier in the guide, the BT app frequently breaks down. To avoid being stranded, you want to make sure you have back up plans in mind every time you step out.
 
--  Check out the "Alerts" section on the app. Sometimes, what looks like the app breaking might have already been addressed through a public notice. There might be instructions for an official temporary solution provided by BT.
--  Make sure to familiarize yourself with [BT's website](https://ridebt.org/). When the app fails, the website should be your next point of reference.
--  <u>**Ensure**</u> that you have a backup transportation app installed. Popular backup options are [Google Maps](https://www.google.com/maps) and [Transit](https://transitapp.com/).
-<br>
+If you every find yourself stranded and the app doesn't seem to be working, try checking out the "Alerts" section on the app. Sometimes, what looks like the app breaking might have already been addressed through a BT public notice. BT might have already issued instructions for an official temporary solution.
+
+If there doesn't seem to be be any new alerts or the app keeps crashing, try checking out [BT's website](https://ridebt.org/). When the app fails, the website should immediately come to mind as your next point of reference. 
+
+!!! Note
+    If the website is also down and all else fails trying calling the BT number: [540-443-1500] (M-F 8 a.m. - 5 p.m.)
+
+Sometimes the best solution is simply prevention. Ensure that you have a backup transportation app installed. The second one fails, you can switch to the other. Popular backup options are [Google Maps](https://www.google.com/maps) and [Transit](https://transitapp.com/), but remember each have pros and cons as stated earlier in this guide.
