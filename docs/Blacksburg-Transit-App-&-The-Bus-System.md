@@ -1,22 +1,19 @@
 ## Blacksburg Transit App & The Bus System
 
 ### What is Blacksburg Transit?
-Blacksburg Transit is the public bus system that goes around the town, parts of Christiansburg, and Roanoke. Blacksburg Transit is free to all Virginia Tech Students and Blacksburg residents. 
+Blacksburg Transit is the public bus system that goes around the town, parts of Christiansburg, and Roanoke. Blacksburg Transit is free to all Virginia Tech Students and Blacksburg residents, making it the most affordable way to get from point A to point B. 
 
-Each bus displays its route (in shorthand) at the front and back of the bus.
+Each bus displays its route (in shorthand) at the front and back of the bus. The bus will continue to loop around this route till end of service hours (more about this later). Routes are designed to target either densely populated or frequently-visited areas. This means that wherever you want to go, more than likely, a bus that passes nearby.
 
-### Blacksburg Transit App
-This is the official app for Blacksburg Transit. It includes all of the routes in Blacksburg and one route in Christiansburg.
 
-[Blacksburg Transit App](https://www.ridebt.org/bt-app)
 
-- PROS: live bus tracking, shows adjusted routes
-- CONS: app frequently breaks down, unintuitive trip planning function
+### Blacksburg Transit App and Website
+The official app for Blacksburg Transit is called the [BT app](https://www.ridebt.org/bt-app). It includes all routes in Blacksburg and one route in Christiansburg. The [BT app](https://www.ridebt.org/bt-app) offers features for live bus-tracking, trip planning, and displaying the 24 hour schedule of a specific stop. When it comes to feature integration, there is no better alternative.
 
-[Blacksburg Transit Website](https://ridebt.org/)
+!!! Warning
+    The BT app tends to break down on a regular basis, so you must be ready to deal with this possibility. We will discuss tips on what to do when the app breaks later in this guide.
 
-- PROS: live bus tracking, updates bus capacity,   mentions detours/changes in routes, all transit information, can file a lost and found claim
-- CONS: harder to navigate on phones, the live bus map breaks the same as the app
+An alternative to the [BT app](https://www.ridebt.org/bt-app) is the [Blacksburg Transit Website](https://ridebt.org/). While the website is not as convenient to navigate on a mobile, device it offers more features such as: displaying live bus capacity, indicating detours/changes in routes, and the ability to file a lost/found claim, to name a few.
 
 ### Alternatives to Blacksburg Transit
  [Google Maps](https://www.google.com/maps)
@@ -31,8 +28,10 @@ This is the official app for Blacksburg Transit. It includes all of the routes i
 
 ### Blacksburg Bus Routes
 
-[ALL 22 Routes & Schedules](https://ridebt.org/routes-schedules)
-   - "Regional Services" includes: Smart Way Buses, [Virginia Breeze](https://us.megabus.com/virginia-breeze), [OurBus](https://www.ourbus.com/), and [others](https://news.vt.edu/notices/adm-evergreens/ops-gettinghomebreak.html).
+If you're interested in learning about where the bus can take you, check out [all 22 routes & schedules](https://ridebt.org/routes-schedules)
+
+!!! Note  
+    "Regional Services" (typically treated as an extension of the BT schedule) includes: [Smart Way Buses](https://www.valleymetro.com/services/smart-way-services), [Virginia Breeze](https://us.megabus.com/virginia-breeze), [OurBus](https://www.ourbus.com/), and [others](https://news.vt.edu/notices/adm-evergreens/ops-gettinghomebreak.html).
 
 
 
@@ -76,7 +75,7 @@ If you every find yourself stranded and the app doesn't seem to be working, try 
 
 If there doesn't seem to be be any new alerts or the app keeps crashing, try checking out [BT's website](https://ridebt.org/). When the app fails, the website should immediately come to mind as your next point of reference. 
 
-!!! Note
-    If the website is also down and all else fails trying calling the BT number: [540-443-1500] (M-F 8 a.m. - 5 p.m.)
+!!! Tip
+    If the website is also down and all else fails trying calling the BT number: [540-443-1500]() (Mon - Fri 8 a.m. - 5 p.m.)
 
 Sometimes the best solution is simply prevention. Ensure that you have a backup transportation app installed. The second one fails, you can switch to the other. Popular backup options are [Google Maps](https://www.google.com/maps) and [Transit](https://transitapp.com/), but remember each have pros and cons as stated earlier in this guide.
